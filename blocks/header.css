@@ -1,0 +1,17 @@
+.header{
+  text-align: center;
+  margin-bottom:90px;
+  padding-top: 34px;
+}
+.header__logo{
+  width: 254px;   
+}
+@media screen and (max-width:544px) {
+  .header{
+    padding-top: 20px;
+    margin-bottom: 50px;
+  }
+  .header__logo{
+    width: 168px;
+  }
+}
