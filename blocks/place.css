@@ -52,10 +52,9 @@ line-height: 46px;
   font-size: 18px;
   line-height: 163%;
   letter-spacing: 0%;
-
-
-
-
+}
+.place__paragraph p {
+  margin-bottom: 16px;
 }
 
 .place__button {
