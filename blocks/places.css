@@ -6,3 +6,11 @@
 
 }
 
+@media screen and (max-width:1024px){
+   .places {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 24px;
+
+  }
+}
